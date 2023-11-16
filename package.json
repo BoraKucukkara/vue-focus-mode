@@ -1,0 +1,32 @@
+{
+  "name": "vue-focus-mode",
+  "displayName": "vue-focus-mode",
+  "description": "focus mode theme for vue js",
+  "publisher": "borakucukkara",
+  "icon": "./vue-focus-mode.png",
+  "author": {
+    "name": "Bora Kucukkara",
+    "email": "borakucukkara.com@gmail.com",
+    "url": "https://www.borakucukkara.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BoraKucukkara/vue-focus-mode"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vue Focus Mode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vue-focus-mode-theme.json"
+      }
+    ]
+  }
+}
