@@ -1,7 +1,7 @@
 {
   "name": "vue-focus-mode",
-  "displayName": "vue-focus-mode",
-  "description": "focus mode theme for vue js",
+  "displayName": "Vue Focus Mode",
+  "description": "Focus mode theme for vue js",
   "publisher": "borakucukkara",
   "icon": "vue-focus-mode.png",
   "author": {
@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BoraKucukkara/vue-focus-mode"
+    "url": "https://github.com/BoraKucukkara/vue-focus-mod-theme"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.84.0"
   },
