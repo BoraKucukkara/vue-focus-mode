@@ -7,8 +7,8 @@ You can override colors. Add these lines into your user > settings.json
     "editor.tokenColorCustomizations": {
         "textMateRules": [
             {
-			"scope": "variable.other.object.js, variable.other.object.property.js, variable.other.property.js",
-			"settings": {"foreground": "#d1bb98"}
+                "scope": "variable.other.object.js, variable.other.object.property.js, variable.other.property.js",
+                "settings": {"foreground": "#d1bb98"}
             },
             {
                 "scope": "entity.other.attribute-name, punctuation.separator.key-value.html, punctuation.definition.string.begin.html, punctuation.definition.string.end.html",
